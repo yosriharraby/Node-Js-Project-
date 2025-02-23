@@ -1,10 +1,7 @@
-Je suis ravi de vous aider à créer un fichier `README.md` professionnel et bien structuré pour votre projet ! Voici un exemple de texte que vous pouvez utiliser, suivi des étapes pour l'ajouter à votre projet.
 
 ---
 
-### **Exemple de texte pour le fichier `README.md`**
 
-```markdown
 # Node.js Project - First App with MongoDB and Express
 
 ![GitHub](https://img.shields.io/badge/license-MIT-blue)
